@@ -1,4 +1,4 @@
-# Simon-game
+# 🔴 🟡 Simon game 🔵 🟢
 Here's the link to the game : https://anshuman235.github.io/Simon-game/
 
 So here's how the simon game work.
